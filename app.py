@@ -20,6 +20,9 @@ def home():
 
 
 
+
+
+
 @app.route('/textapi', methods=['POST'])
 def text_api():
     if request.method == 'POST':
