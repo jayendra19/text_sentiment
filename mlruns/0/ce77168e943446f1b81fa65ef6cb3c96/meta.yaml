@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/ce77168e943446f1b81fa65ef6cb3c96/artifacts
+end_time: 1705084249004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce77168e943446f1b81fa65ef6cb3c96
+run_name: bittersweet-carp-82
+run_uuid: ce77168e943446f1b81fa65ef6cb3c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705084248913
+status: 3
+tags: []
+user_id: jayen

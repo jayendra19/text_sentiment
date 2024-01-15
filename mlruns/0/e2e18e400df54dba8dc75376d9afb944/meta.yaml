@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/e2e18e400df54dba8dc75376d9afb944/artifacts
+end_time: 1704981331118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2e18e400df54dba8dc75376d9afb944
+run_name: casual-shoat-623
+run_uuid: e2e18e400df54dba8dc75376d9afb944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704981331020
+status: 3
+tags: []
+user_id: jayen

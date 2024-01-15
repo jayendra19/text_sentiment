@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/0c4ba7a1f0b24a24975930921c4a9878/artifacts
+end_time: 1705084248893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c4ba7a1f0b24a24975930921c4a9878
+run_name: polite-mule-685
+run_uuid: 0c4ba7a1f0b24a24975930921c4a9878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705084248670
+status: 3
+tags: []
+user_id: jayen

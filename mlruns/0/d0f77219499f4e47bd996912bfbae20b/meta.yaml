@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/d0f77219499f4e47bd996912bfbae20b/artifacts
+end_time: 1704988765361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0f77219499f4e47bd996912bfbae20b
+run_name: angry-shoat-837
+run_uuid: d0f77219499f4e47bd996912bfbae20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704988765260
+status: 3
+tags: []
+user_id: jayen

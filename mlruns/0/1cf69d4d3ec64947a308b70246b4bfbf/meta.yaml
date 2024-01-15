@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/1cf69d4d3ec64947a308b70246b4bfbf/artifacts
+end_time: 1704990662175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf69d4d3ec64947a308b70246b4bfbf
+run_name: zealous-bass-174
+run_uuid: 1cf69d4d3ec64947a308b70246b4bfbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704990661893
+status: 3
+tags: []
+user_id: jayen

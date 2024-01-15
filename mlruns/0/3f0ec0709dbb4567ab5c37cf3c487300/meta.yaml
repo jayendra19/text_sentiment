@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/3f0ec0709dbb4567ab5c37cf3c487300/artifacts
+end_time: 1704978544322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f0ec0709dbb4567ab5c37cf3c487300
+run_name: suave-penguin-780
+run_uuid: 3f0ec0709dbb4567ab5c37cf3c487300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704978544141
+status: 3
+tags: []
+user_id: jayen

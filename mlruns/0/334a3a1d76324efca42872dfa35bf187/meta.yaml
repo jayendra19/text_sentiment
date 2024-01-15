@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/334a3a1d76324efca42872dfa35bf187/artifacts
+end_time: 1705098523807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 334a3a1d76324efca42872dfa35bf187
+run_name: bedecked-bee-214
+run_uuid: 334a3a1d76324efca42872dfa35bf187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705098523605
+status: 3
+tags: []
+user_id: jayen

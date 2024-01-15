@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/173585afb49a45859bd9dd5af100fc75/artifacts
+end_time: 1704981562316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 173585afb49a45859bd9dd5af100fc75
+run_name: magnificent-fly-488
+run_uuid: 173585afb49a45859bd9dd5af100fc75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704981562220
+status: 3
+tags: []
+user_id: jayen

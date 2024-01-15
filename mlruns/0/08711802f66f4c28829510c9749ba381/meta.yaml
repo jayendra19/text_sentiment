@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/08711802f66f4c28829510c9749ba381/artifacts
+end_time: 1704988765539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08711802f66f4c28829510c9749ba381
+run_name: delightful-fawn-373
+run_uuid: 08711802f66f4c28829510c9749ba381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704988765403
+status: 3
+tags: []
+user_id: jayen

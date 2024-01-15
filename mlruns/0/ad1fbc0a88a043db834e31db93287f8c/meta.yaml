@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/ad1fbc0a88a043db834e31db93287f8c/artifacts
+end_time: 1704885556329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1fbc0a88a043db834e31db93287f8c
+run_name: charming-sloth-287
+run_uuid: ad1fbc0a88a043db834e31db93287f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704885556195
+status: 3
+tags: []
+user_id: jayen

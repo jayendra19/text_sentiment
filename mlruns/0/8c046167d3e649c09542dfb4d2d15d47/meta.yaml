@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/8c046167d3e649c09542dfb4d2d15d47/artifacts
+end_time: 1705085204898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c046167d3e649c09542dfb4d2d15d47
+run_name: traveling-ray-806
+run_uuid: 8c046167d3e649c09542dfb4d2d15d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705085204762
+status: 3
+tags: []
+user_id: jayen

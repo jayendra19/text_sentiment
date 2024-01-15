@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/a2f2e2640a4b40a28dbe3a12c6b04124/artifacts
+end_time: 1704984920234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2f2e2640a4b40a28dbe3a12c6b04124
+run_name: omniscient-ray-719
+run_uuid: a2f2e2640a4b40a28dbe3a12c6b04124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704984920083
+status: 3
+tags: []
+user_id: jayen

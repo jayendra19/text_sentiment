@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/bffd45406a784772b0cb26bb605dc643/artifacts
+end_time: 1705085204524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bffd45406a784772b0cb26bb605dc643
+run_name: sassy-eel-265
+run_uuid: bffd45406a784772b0cb26bb605dc643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705085204395
+status: 3
+tags: []
+user_id: jayen

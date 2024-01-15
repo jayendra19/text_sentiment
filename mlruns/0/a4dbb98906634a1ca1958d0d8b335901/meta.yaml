@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/a4dbb98906634a1ca1958d0d8b335901/artifacts
+end_time: 1704886066137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4dbb98906634a1ca1958d0d8b335901
+run_name: sneaky-shrew-574
+run_uuid: a4dbb98906634a1ca1958d0d8b335901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704886065978
+status: 3
+tags: []
+user_id: jayen

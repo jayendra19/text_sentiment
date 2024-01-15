@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Text Classification</title>
+    <!-- Add Bootstrap CSS link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+         html, body {
+            height: 100%;
+            margin: 0;
+            background-color: #cdb0b0; /* Black background */
+            color: #150101; /* White text color */
+        }
+
+
+
+        body {
+            background-color: hsla(30, 17%, 98%, 0);
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: #21caab; /* Orange background */
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 50px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #040217;
+        }
+
+        form {
+            margin-top: 20px;
+            background-color: #3d83c0; /* Light blue background */
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        h2 {
+            margin-top: 20px;
+            color: #020d18;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+    
+</head>
+<body>
+    <div class="container">
+        <h1>Text Classification</h1>
+        <form method="post" action="/text">
+            <div class="form-group">
+                <label for="text">Enter Text:</label>
+                <textarea class="form-control" name="text" id="text" rows="4" placeholder="Type your text here"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Classify Text</button>
+        </form>
+
+        {% if text %}
+        <h2>Entered Text:</h2>
+        <p>{{ text }}</p>
+        {% endif %}
+
+        {% if results %}
+        <h2>Classification Results:</h2>
+        <ul>
+            <li><strong>Sentiment:</strong> {{ results.Sentiment }}</li>
+            <li><strong>Mental Health:</strong> {{ results['Mental Health'] }}</li>
+            <li><strong>Emotion:</strong> {{ results.Emotion }}</li>
+            <li><strong>Sarcasm:</strong> {{ results.Sarcasm }}</li>
+        </ul>
+        {% endif %}
+    </div>
+
+    <!-- Add Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

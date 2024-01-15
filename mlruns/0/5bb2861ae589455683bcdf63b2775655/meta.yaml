@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/5bb2861ae589455683bcdf63b2775655/artifacts
+end_time: 1705085134690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bb2861ae589455683bcdf63b2775655
+run_name: bouncy-newt-19
+run_uuid: 5bb2861ae589455683bcdf63b2775655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705085134538
+status: 3
+tags: []
+user_id: jayen

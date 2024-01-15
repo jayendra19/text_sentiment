@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/e445fed29c964c19a81c954d210e33dd/artifacts
+end_time: 1704984920047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e445fed29c964c19a81c954d210e33dd
+run_name: powerful-owl-887
+run_uuid: e445fed29c964c19a81c954d210e33dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704984919882
+status: 3
+tags: []
+user_id: jayen

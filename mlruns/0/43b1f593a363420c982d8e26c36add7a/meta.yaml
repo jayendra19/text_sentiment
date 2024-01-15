@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/43b1f593a363420c982d8e26c36add7a/artifacts
+end_time: 1705085204360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43b1f593a363420c982d8e26c36add7a
+run_name: wistful-snail-831
+run_uuid: 43b1f593a363420c982d8e26c36add7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705085204255
+status: 3
+tags: []
+user_id: jayen

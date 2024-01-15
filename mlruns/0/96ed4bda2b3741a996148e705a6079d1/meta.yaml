@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/96ed4bda2b3741a996148e705a6079d1/artifacts
+end_time: 1704980933661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96ed4bda2b3741a996148e705a6079d1
+run_name: valuable-moose-306
+run_uuid: 96ed4bda2b3741a996148e705a6079d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704980933494
+status: 3
+tags: []
+user_id: jayen

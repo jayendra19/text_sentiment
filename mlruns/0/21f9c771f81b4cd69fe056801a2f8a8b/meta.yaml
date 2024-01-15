@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/21f9c771f81b4cd69fe056801a2f8a8b/artifacts
+end_time: 1704980407115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21f9c771f81b4cd69fe056801a2f8a8b
+run_name: illustrious-hawk-539
+run_uuid: 21f9c771f81b4cd69fe056801a2f8a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704980406933
+status: 3
+tags: []
+user_id: jayen

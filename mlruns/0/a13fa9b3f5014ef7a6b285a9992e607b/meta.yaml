@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/a13fa9b3f5014ef7a6b285a9992e607b/artifacts
+end_time: 1704993445985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a13fa9b3f5014ef7a6b285a9992e607b
+run_name: auspicious-fowl-89
+run_uuid: a13fa9b3f5014ef7a6b285a9992e607b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993445897
+status: 3
+tags: []
+user_id: jayen

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/f5aeb7ba7ff646fe8c72a5521a72cde0/artifacts
+end_time: 1704882541530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5aeb7ba7ff646fe8c72a5521a72cde0
+run_name: shivering-grouse-204
+run_uuid: f5aeb7ba7ff646fe8c72a5521a72cde0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704882541397
+status: 3
+tags: []
+user_id: jayen

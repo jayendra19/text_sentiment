@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/008869d685df426c98fcd94f5a50e496/artifacts
+end_time: 1704974143062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 008869d685df426c98fcd94f5a50e496
+run_name: bedecked-panda-337
+run_uuid: 008869d685df426c98fcd94f5a50e496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704974142932
+status: 3
+tags: []
+user_id: jayen

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/e1c406dff97b458aa6321717f68edc48/artifacts
+end_time: 1704988705507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c406dff97b458aa6321717f68edc48
+run_name: caring-yak-81
+run_uuid: e1c406dff97b458aa6321717f68edc48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704988705331
+status: 3
+tags: []
+user_id: jayen

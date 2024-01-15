@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/c1f6a360781a4e358b7738bcd1a9733e/artifacts
+end_time: 1704981331320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f6a360781a4e358b7738bcd1a9733e
+run_name: abundant-hare-332
+run_uuid: c1f6a360781a4e358b7738bcd1a9733e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704981331186
+status: 3
+tags: []
+user_id: jayen

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/ae65f56cb2be4507afe4058e86b29b68/artifacts
+end_time: 1704979126436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae65f56cb2be4507afe4058e86b29b68
+run_name: classy-seal-444
+run_uuid: ae65f56cb2be4507afe4058e86b29b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704979126262
+status: 3
+tags: []
+user_id: jayen

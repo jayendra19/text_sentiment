@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/060d0e61d4eb4a1088d0217504e66f99/artifacts
+end_time: 1704882081387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 060d0e61d4eb4a1088d0217504e66f99
+run_name: adorable-pig-472
+run_uuid: 060d0e61d4eb4a1088d0217504e66f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704882081240
+status: 3
+tags: []
+user_id: jayen

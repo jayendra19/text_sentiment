@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/b1da73898d5047709a0b8f88ed10b9df/artifacts
+end_time: 1704987245333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1da73898d5047709a0b8f88ed10b9df
+run_name: mysterious-bass-106
+run_uuid: b1da73898d5047709a0b8f88ed10b9df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704987245140
+status: 3
+tags: []
+user_id: jayen

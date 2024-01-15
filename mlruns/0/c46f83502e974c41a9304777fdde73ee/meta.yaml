@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/c46f83502e974c41a9304777fdde73ee/artifacts
+end_time: 1704984920373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46f83502e974c41a9304777fdde73ee
+run_name: stylish-sponge-634
+run_uuid: c46f83502e974c41a9304777fdde73ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704984920254
+status: 3
+tags: []
+user_id: jayen

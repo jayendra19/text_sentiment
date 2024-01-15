@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/a4425981a5764743bda7d94f69ac9f00/artifacts
+end_time: 1704988705938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4425981a5764743bda7d94f69ac9f00
+run_name: industrious-gnu-528
+run_uuid: a4425981a5764743bda7d94f69ac9f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704988705728
+status: 3
+tags: []
+user_id: jayen

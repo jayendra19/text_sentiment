@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/95b0322568c044a6aede504d61377234/artifacts
+end_time: 1705085134859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b0322568c044a6aede504d61377234
+run_name: nervous-sheep-463
+run_uuid: 95b0322568c044a6aede504d61377234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705085134710
+status: 3
+tags: []
+user_id: jayen

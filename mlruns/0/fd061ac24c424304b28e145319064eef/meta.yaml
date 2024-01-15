@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/fd061ac24c424304b28e145319064eef/artifacts
+end_time: 1705147852582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd061ac24c424304b28e145319064eef
+run_name: zealous-chimp-461
+run_uuid: fd061ac24c424304b28e145319064eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705147852405
+status: 3
+tags: []
+user_id: jayen

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/a1487ca6f82c4c8d87f9801d122fff78/artifacts
+end_time: 1704987601515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1487ca6f82c4c8d87f9801d122fff78
+run_name: placid-bear-626
+run_uuid: a1487ca6f82c4c8d87f9801d122fff78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704987601337
+status: 3
+tags: []
+user_id: jayen

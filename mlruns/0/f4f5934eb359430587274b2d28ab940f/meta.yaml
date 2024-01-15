@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/f4f5934eb359430587274b2d28ab940f/artifacts
+end_time: 1704980933788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4f5934eb359430587274b2d28ab940f
+run_name: lyrical-hound-422
+run_uuid: f4f5934eb359430587274b2d28ab940f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704980933692
+status: 3
+tags: []
+user_id: jayen

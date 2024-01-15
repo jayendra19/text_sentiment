@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/47f9e357f74f4eecba089cf07f3fd446/artifacts
+end_time: 1704835540230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47f9e357f74f4eecba089cf07f3fd446
+run_name: treasured-panda-581
+run_uuid: 47f9e357f74f4eecba089cf07f3fd446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704835540031
+status: 3
+tags: []
+user_id: jayen

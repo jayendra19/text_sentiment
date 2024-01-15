@@ -1,0 +1,11 @@
+pandas 
+numpy 
+scikit-learn
+bs4
+tensorflow
+constractions
+neattext
+nltk
+zenml
+mlflow
+dvc

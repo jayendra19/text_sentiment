@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/d844b4cd13dd4163aa8394051448ed7f/artifacts
+end_time: 1704984429681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d844b4cd13dd4163aa8394051448ed7f
+run_name: unruly-foal-739
+run_uuid: d844b4cd13dd4163aa8394051448ed7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704984429518
+status: 3
+tags: []
+user_id: jayen

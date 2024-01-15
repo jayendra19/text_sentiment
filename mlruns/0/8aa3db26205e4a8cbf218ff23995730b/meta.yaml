@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/8aa3db26205e4a8cbf218ff23995730b/artifacts
+end_time: 1705148588391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa3db26205e4a8cbf218ff23995730b
+run_name: incongruous-owl-582
+run_uuid: 8aa3db26205e4a8cbf218ff23995730b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705148588242
+status: 3
+tags: []
+user_id: jayen

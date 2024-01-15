@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Text-sentiment-analysis-general-purpose/mlruns/0/12724df47a8c458194db6b964a65808e/artifacts
+end_time: 1704973527508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12724df47a8c458194db6b964a65808e
+run_name: skillful-roo-186
+run_uuid: 12724df47a8c458194db6b964a65808e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704973527319
+status: 3
+tags: []
+user_id: jayen
