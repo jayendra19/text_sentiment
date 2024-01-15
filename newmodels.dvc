@@ -1,0 +1,6 @@
+outs:
+- md5: ab91548adb1ba9c1fddfd9f8ba88b229.dir
+  size: 207958792
+  nfiles: 8
+  hash: md5
+  path: newmodels
