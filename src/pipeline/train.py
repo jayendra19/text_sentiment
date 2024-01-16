@@ -8,10 +8,10 @@ from src.steps.model import model_train
 
 # List of paths to your datasets
 data_paths = [
-       r'C:\Users\jayen\Text-sentiment-analysis-general-purpose\artifacts\emotions.csv',
-       r'C:\Users\jayen\Text-sentiment-analysis-general-purpose\artifacts\Forsentiment3.csv',
-       r'C:\Users\jayen\Text-sentiment-analysis-general-purpose\artifacts\Mental_health.csv',
-       r'C:\Users\jayen\Text-sentiment-analysis-general-purpose\artifacts\sarcasm_dataset_updated.csv'
+       r'C:\Users\jayen\text_sentiment\artifacts\emotions.csv',
+       r'C:\Users\jayen\text_sentiment\artifacts\Forsentiment3.csv',
+       r'C:\Users\jayen\text_sentiment\artifacts\Mental_health.csv',
+       r'C:\Users\jayen\text_sentiment\artifacts\sarcasm_dataset_updated.csv'
     ]
 @pipeline(enable_cache=False)
 def training_pipeline():
@@ -30,7 +30,7 @@ def training_pipeline():
 
                             # Create a ModelNameConfig instance and pass it to train_model
                             #An epoch is one complete pass through the entire training dataset.
-                            result= model_train(dataframe,5,50,25,0.3,100,r'C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels',data_path)
+                            result= model_train(dataframe,5,50,25,0.3,100,r'C:\Users\jayen\text_sentiment\newmodels',data_path)
                             print("Data pipeline done successfully.")
 
                         finally:

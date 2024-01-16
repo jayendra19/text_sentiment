@@ -8,21 +8,23 @@ import pickle
 
 
 # List of model paths
+
 model_paths = [
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\emotions_model.h5",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\Forsentiment3_model.h5",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\Mental_health_model.h5",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\sarcasm_dataset_updated_model.h5"
+    "/app/newmodels/emotions_model.h5",
+    "/app/newmodels/Forsentiment3_model.h5",
+    "/app/newmodels/Mental_health_model.h5",
+    "/app/newmodels/sarcasm_dataset_updated_model.h5"
 ]
 
 tokenizer_paths=[
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\emotions_tokenizer.pickle",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\Forsentiment3_tokenizer.pickle",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\Mental_health_tokenizer.pickle",
-    r"C:\Users\jayen\Text-sentiment-analysis-general-purpose\newmodels\sarcasm_dataset_updated_tokenizer.pickle"
+    "/app/newmodels/emotions_tokenizer.pickle",
+    "/app/newmodels/Forsentiment3_tokenizer.pickle",
+    "/app/newmodels/Mental_health_tokenizer.pickle",
+    "/app/newmodels/sarcasm_dataset_updated_tokenizer.pickle"
 
 
 ]
+
 
 # Load all models
 models = [load_model(model_path) for model_path in model_paths]
