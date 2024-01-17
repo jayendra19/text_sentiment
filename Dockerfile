@@ -15,7 +15,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application code to the working directory
 COPY . .
 
-# Make port 80 available to the world outside this container
 EXPOSE 5000
 
 # Define the command to run the application

@@ -1,1 +1,2 @@
 # Text-sentiment-analysis-general-purpose
+Motive of this project was to build a analyzer when user give input or having kind of text wheather its review or tweet it will give response in terms of person's mental health ,emotions,sentiments and the text is sarcastic or not. Its only trained on 50k data because i didn't have computations power(using i3) u can trained on more data for more accurcy.
